@@ -1,5 +1,5 @@
-### Preview
-Live Demo >> http://bible-scriptures.vercel.app
+### Demo
+http://bible-scriptures.vercel.app
 
 
 
